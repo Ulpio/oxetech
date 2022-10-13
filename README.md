@@ -1,4 +1,4 @@
 # oxetech
-Repositório referente ao curso de VSCode
-Bom dia
-Lorem ipsulum
+# Avaliação:
+
+https://forms.gle/pvhxVzKySyMFkgfK7
